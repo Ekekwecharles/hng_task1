@@ -195,6 +195,10 @@ li:not(:last-child) {
   color: #fb6f92;
 }
 
+.num {
+  color: #fb6f92;
+}
+
 .footer_img {
   width: 20rem;
   height: 9rem;
